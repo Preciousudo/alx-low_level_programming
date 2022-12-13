@@ -1,12 +1,10 @@
-#include <stdio.h>
-
-/**
- * main - print a given phrase
- * Return: O if exited properly, non-zero otherwise
- */
-
-int main(void)
-{
-	puts("\"Programming is like building a multifunctional puzzle");
-	Return (0);
+#include <stdio.h>                                                                                                                      
+/**                                                                                                                                     
+ * main - Entry                                                                                                                         
+ * Return: Always 0                                                                                                                     
+ */                                                                                                                                     
+int main(void)                                                                                                                          
+{                                                                                                                                       
+        puts("\"Programming is like building a multi lingual puzzle);                                                            
+        return (0);
 }
